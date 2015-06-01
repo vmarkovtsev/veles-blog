@@ -14,7 +14,7 @@ FTP_TARGET_DIR=/
 
 SSH_HOST=velesnet.ml
 SSH_PORT=2222
-SSH_USER=root
+SSH_USER=markhor
 SSH_TARGET_DIR=/var/www-data/blog
 
 S3_BUCKET=my_s3_bucket

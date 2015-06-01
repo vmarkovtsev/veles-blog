@@ -28,6 +28,8 @@ LINKS = (('Veles on GitHub', 'https://github.com/samsung/veles'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https:/twotter.com/velesml'),)
+GITHUB_URL = "https://github.com/samsung/veles"
+TWITTER_USERNAME = "velesml"
 
 DEFAULT_PAGINATION = 5
 
