@@ -23,11 +23,11 @@ MD_EXTENSIONS = ["gfm"]
 # Blogroll
 LINKS = (('Veles on GitHub', 'https://github.com/samsung/veles'),
          ('Gerrit', 'https://velesnet.ml/gerrit'),
-         ('Jenkins', 'http://velesnet.ml/jenkins'),
-         ('Benchmarks', 'http://velesnet.ml/benchmarks'),)
+         ('Jenkins', 'https://velesnet.ml/jenkins'),
+         ('Benchmarks', 'https://velesnet.ml/benchmarks'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https:/twitter.com/velesml'),)
+SOCIAL = (('Twitter', 'https://twitter.com/velesml'),)
 GITHUB_URL = "https://github.com/samsung/veles"
 TWITTER_USERNAME = "velesml"
 
