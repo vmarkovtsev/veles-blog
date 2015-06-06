@@ -27,7 +27,7 @@ LINKS = (('Veles on GitHub', 'https://github.com/samsung/veles'),
          ('Benchmarks', 'http://velesnet.ml/benchmarks'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https:/twotter.com/velesml'),)
+SOCIAL = (('Twitter', 'https:/twitter.com/velesml'),)
 GITHUB_URL = "https://github.com/samsung/veles"
 TWITTER_USERNAME = "velesml"
 
